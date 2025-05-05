@@ -84,7 +84,7 @@ I’m writing a detailed article on Medium to walk through the full project and 
 If you have feedback or want to collaborate, feel free to reach out!
 
 📧 Email: puthran.sohan@gmail.com 
-💼 LinkedIn: [your-profile](https://linkedin.com/in/sohansputhran)
+💼 LinkedIn: [Sohan Puthran](https://linkedin.com/in/sohansputhran)
 
 ---
 
