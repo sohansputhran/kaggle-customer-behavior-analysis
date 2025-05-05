@@ -32,15 +32,16 @@ The dataset includes detailed information such as:
 
 ## 🧱 Project Structure
 
+```plaintext
 kaggle-customer-behavior-analysis/
 │
-├── data/ # Raw and processed data
-├── notebooks/ # Jupyter Notebooks (EDA, modeling, clustering)
-├── src/ # Python scripts for preprocessing and modeling
-├── outputs/ # Visualizations, saved models
-├── streamlit_app/ # Optional dashboard (if built)
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
+├── data/                   # Raw and processed data
+├── notebooks/              # Jupyter Notebooks (EDA, modeling, clustering)
+├── src/                    # Python scripts for preprocessing and modeling
+├── outputs/                # Visualizations, saved models
+├── streamlit_app/          # Optional dashboard (if built)
+├── requirements.txt        # Python dependencies
+└── README.md               # Project overview
 
 ---
 
